@@ -1,9 +1,9 @@
-import imagem from '/imagem.jpg'
+
 
 export default function App() {
   return (
     <div>
-      <img src={imagem} alt="react" />
+      <img src="/imagem.jpg" alt="react" />
       <h1>React</h1>
       <p>A biblioteca para interface de usuário web e nativas.</p>
       <button>Aprenda React</button> <button>Referência de API</button>
